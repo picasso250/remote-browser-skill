@@ -15,3 +15,5 @@ description: Control a Brave/Chrome browser.
 作为 Agent，你需要做的操作是：
 
 使用 Accessibility tree 来获取页面元素的信息，并且使用 模拟鼠标点击 的方式 来控制浏览器。
+
+参考 remote-browser\fetch_x.py remote-browser\like_x.py
